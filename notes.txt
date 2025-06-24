@@ -1,0 +1,33 @@
+What is Programming language?
+> Programming language is a special tool used to communicate with a computer. ex: python, C, C++, c#, JS...
+
+
+Python 
+-------
+>pyhton is a high-level, interpreted and general-purpose programming language, (versatile).
+>known for its readability and simplicity.
+
+versatile---> web dev, data science, AI, automation, Game dev....
+very community support.
+
+Syntax and Rules
+-----------------
+>>Case-sensitive
+>>indentation (spacing) is important.
+
+Comments
+----------
+# ----> to create a single line comment
+''' ----> for multi line.
+
+shortcut in vs code---> ctrl+/
+
+
+print() function---> used to display output on the screen.
+
+
+extension for python file is ".py"
+
+open terminal---> ctrl + ~
+
+to execute python code on terminal---> py "file name"
