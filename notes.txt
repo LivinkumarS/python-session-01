@@ -31,3 +31,38 @@ extension for python file is ".py"
 open terminal---> ctrl + ~
 
 to execute python code on terminal---> py "file name"
+
+
+Variables:
+------------------
+variable is simply a container that stores a data.
+
+(ex: varName=value)
+
+whle assigning var name---> 
+Not
+----
+> using reserved keyword,
+> using space between variable name. (the name (instead pascal or camel))
+hello world
+HELLO WORLD
+Hello World
+HelloWorld
+helloWorld
+
+should
+-------
+> meaningful variable name
+> can use "_", "-"
+
+Main Data Types Datatypes
+---------------------------
+integer----> whole numbers ....-3,-2,-1,0,1,2,3....
+float----> Decimal Numbers
+string---> '' or "" to create a string (collection of char)
+boolean---> True/False
+
+Type Casting
+--------------
+convert one datatype into another.
+ex: int("string"). str(val). bool(val)
