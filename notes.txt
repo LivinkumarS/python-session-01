@@ -66,3 +66,52 @@ Type Casting
 --------------
 convert one datatype into another.
 ex: int("string"). str(val). bool(val)
+
+Operators
+-------------
+An operator is a symbol that performs an action on variables or values(operands).
+
+Arthmetic Operator 
+------------------
+Add--> +
+Sub--> -
+Mul--> *
+Div--> /
+FloorDiv---> //
+Modulus---> %
+Exponent--> **
+
+
+Comparison Operator  (boolean values)
+--------------------
+equal to ---> == 
+not equal --> !=
+greater than --> >
+less than --> <
+greater or equal --> >=
+less or equal --> <=
+
+
+Logical Operators
+-------------------
+
+and---> True if both conditions are True
+or----> True if at least one is true
+not---> reverse the result
+
+BODMAS--->Brackets Order Div Mul Add Sub.
+
+Assignment Operator
+-------------------------
+
+= --> assign.
++= --> add and assign
+-= --> sub and assign
+*= ---> mul and assign 
+/= ---> div and assign
+
+Bitwise Operator 
+-----------------
+
+Ternary operator 
+----------------
