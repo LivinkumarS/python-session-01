@@ -112,6 +112,27 @@ Assignment Operator
 
 Bitwise Operator 
 -----------------
+complement--> (~) reversing the bit.(~n=-(n+1))
+and---> (&) and operator in bits
+or---> (|) or with bits
+ex-or---> (^) ex-or with bits
+left shift---< (<< (shift val)) shifting bits towards left
+
 
 Ternary operator 
 ----------------
+Ternary operator is the shorthand for if else.
+
+val1 if condition else val2
+
+Conditional Statements (if, else, elif)
+--------------------------
+syntax:
+
+if condition:
+    #block of code(get executed, if the condition is True)
+elif condition:
+    #block of code
+else:
+    #Block of code(if the condition given in if block is false)
+

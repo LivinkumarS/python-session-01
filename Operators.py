@@ -34,7 +34,29 @@
 
 # print((a and b) or (b and (not a)))
 
-a=10
-a+=30
+# a=10
+# a+=30
 
-print(a)
+# print(a)
+
+# Bitwise operators
+
+# print(~13)
+# print(6 & 4)
+# print(6|4)
+# print(9^8)
+# print(5<<2)
+# print(5>>2)
+
+# Ternary Operator
+
+age=input("Type Your age: ")
+
+# if int(age)>=18:
+#     canVote=True
+# else:
+#     canVote=False
+
+canVote= True if int(age)>=18 else False
+
+print(canVote)
