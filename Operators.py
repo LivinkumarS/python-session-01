@@ -60,3 +60,5 @@ age=input("Type Your age: ")
 canVote= True if int(age)>=18 else False
 
 print(canVote)
+
+

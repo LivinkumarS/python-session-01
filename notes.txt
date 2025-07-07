@@ -136,3 +136,14 @@ elif condition:
 else:
     #Block of code(if the condition given in if block is false)
 
+
+
+
+height in m---> input 
+weight in kg----> input 
+
+BMI formula---> weight/height**2 
+
+bmi>18, then < 25---> correct weight 
+bmi <=18 ----> low 
+bmi >=25---> over weight
