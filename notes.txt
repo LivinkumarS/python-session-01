@@ -147,3 +147,31 @@ BMI formula---> weight/height**2
 bmi>18, then < 25---> correct weight 
 bmi <=18 ----> low 
 bmi >=25---> over weight
+
+
+Loops
+------
+Loops help to execute a block of code multiple times without repeating it manually.
+
+for 
+----
+>> when the number of iteration is known
+syntax:
+----------
+for i in range(start, end, steps):
+    #block of code
+
+while
+-------
+>when the number of iteration is not known.
+
+while condition:
+    #block of code
+
+Control Statements--> Break and Continue.
+------------------------------------------
+
+break---> breaks the current loop.
+continue---> skips the current iteration
+
+
