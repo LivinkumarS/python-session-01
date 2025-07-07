@@ -175,3 +175,9 @@ break---> breaks the current loop.
 continue---> skips the current iteration
 
 
+90-100--> O.
+80-89--->A+
+70-79--->A
+60-69--->B+
+50-59--->B
+<50--> Fail
