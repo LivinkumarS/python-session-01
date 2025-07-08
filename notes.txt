@@ -181,3 +181,13 @@ continue---> skips the current iteration
 60-69--->B+
 50-59--->B
 <50--> Fail
+
+Data Structures
+-------------------
+list:  collection of mixed datatype. mutable. duplicates are allowed...([]--> list)
+
+tuple: immutable..(()---> tuple). faster than list and used for fixed data. will allow duplicates
+
+set: will not allow duplicates. ({}---> sets)
+
+Dict: key-value pairs... ({key1:val1,key2:val2...}), Mutable
