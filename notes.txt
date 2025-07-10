@@ -190,4 +190,44 @@ tuple: immutable..(()---> tuple). faster than list and used for fixed data. will
 
 set: will not allow duplicates. ({}---> sets)
 
-Dict: key-value pairs... ({key1:val1,key2:val2...}), Mutable
+Dict: key-value pairs... ({key1:val1,key2:val2...}), Mutable.
+
+Function 
+------------
+A block of code that performs a task whenever it is called.
+
+create:
+def functionName():
+    #block of code.
+
+call:
+functionName()
+
+Parameters and Arguments
+------------------------------
+def add(a,b):
+    print()
+a,b---> parameters.
+
+add(2,3)
+2,3---> arguments.
+
+Default Agruments  and keywords
+------------------------------
+def greet(name="Livin"):
+    print("Good Morning!", name)
+    
+greet("Saala")
+greet()
+
+keyword---> calc(c=3,b=4,a=20)
+
+Return
+-------
+1) break a function...
+2) to return some data to the caller
+
+Scope
+------
+Local---> Defined Inside a function
+Global---> Outside a function.
