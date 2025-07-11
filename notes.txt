@@ -240,3 +240,14 @@ Scope
 ------
 Local---> Defined Inside a function
 Global---> Outside a function.
+
+
+Exception Handling
+---------------------
+try:
+    #block
+except ValueError:
+    #block 
+
+
+
