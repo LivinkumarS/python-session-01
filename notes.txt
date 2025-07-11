@@ -62,6 +62,15 @@ float----> Decimal Numbers
 string---> '' or "" to create a string (collection of char)
 boolean---> True/False
 
+
+String:
+-------------
+>> Sequence of char. enclosed with ' or "...
+indexing---> accessing a specific elements using it's index number..ex: str[index]
+slicing---> str[start:end]
+
+String Formetting--->f" {variable}  "
+
 Type Casting
 --------------
 convert one datatype into another.

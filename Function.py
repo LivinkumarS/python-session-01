@@ -43,12 +43,19 @@
 
 # print(getName("Hari"))
 
-a=10
+# a=10
 
-def add():
-    a=11
-    b=9
-    print(a+b)
+# def add():
+#     a=11
+#     b=9
+#     print(a+b)
 
-add()
-print(a)
+# add()
+# print(a)
+
+
+def getDay(n):
+    days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    return days[n]
+
+print(getDay(2))

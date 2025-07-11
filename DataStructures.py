@@ -46,5 +46,12 @@
 # print(d1)
 
 
-list1=[2,3,23,45,34,54,67,45,6,6,7,8,1,1,2,3,2,3,5]
-print(list(set(list1)))
+# list1=[2,3,23,45,34,54,67,45,6,6,7,8,1,1,2,3,2,3,5]
+# print(list(set(list1)))
+
+
+dic1={1:"One",2:"Two",3:"Three"}
+
+del dic1[3]
+
+print(dic1)
