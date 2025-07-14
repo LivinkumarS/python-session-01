@@ -250,4 +250,26 @@ except ValueError:
     #block 
 
 
+File Handling in Python 
+-----------------------
 
+.exists()---> to check whether the given file exists or not.
+open(path of the file)
+
+Read Mode:
+----------
+read()---> read all the content
+readline()---> read the content line by line.
+
+Write Mode:
+-------------
+write("text you wanna write into that file. the text that present in the file will be replaced with this text")
+
+Append:
+--------
+write("text you wanna write into that file. append with existing text")
+
+
+.close("file name")
+
+os.remove("file name")---> delete the file
